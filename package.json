@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-web-craping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhahika",
+  "license": "ISC",
+  "dependencies": {
+    "@json2csv/plainjs": "^7.0.6",
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0-rc.12",
+    "fs": "^0.0.1-security",
+    "json2csv": "^6.0.0-alpha.2"
+  }
+}
